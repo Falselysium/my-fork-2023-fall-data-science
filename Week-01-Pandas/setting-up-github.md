@@ -19,7 +19,11 @@
 	* IF YOU ARE IN __TUESDAYS__ CLASS:  
 		* `git remote add upstream https://github.com/CUNYTechPrep/2023-fall-data-science-tuesday`
 	* IF YOU ARE IN __FRDIAYS__ CLASS: 
+<<<<<<< HEAD
 		* `git remote add upstream https://github.com/CUNYTechPrep/2023-fall-data-science`
+=======
+		* `git remote add upstream https://github.com/CUNYTechPrep/2023-fall-data-science-fridays`
+>>>>>>> 33b08e96441913a3f67a8c453df100927bc2b93a
 
 
 
